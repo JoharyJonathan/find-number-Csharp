@@ -1,0 +1,6 @@
+E:\C# projects\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.exe.config
+E:\C# projects\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.exe
+E:\C# projects\FindTheNumber\FindTheNumber\bin\Debug\FindTheNumber.pdb
+E:\C# projects\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.csprojResolveAssemblyReference.cache
+E:\C# projects\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.exe
+E:\C# projects\FindTheNumber\FindTheNumber\obj\Debug\FindTheNumber.pdb
